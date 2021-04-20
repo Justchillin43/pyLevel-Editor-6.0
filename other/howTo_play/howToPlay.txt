@@ -1,0 +1,43 @@
+HOW TO START:
+______________________________________________________________
+1)Inorder to start, you need to select a text file.
+2)Then you must enter the directory with the image tiles you want to use.
+
+
+HOW TO USE:
+___________________________________________________________
+3)To scroll the widget, roll the mouse scroller up and down.
+
+4)You are also able to edit text files that were writen by this program
+  by loading them again.
+
+5)Press the WASD keys to move your level around.
+
+6)You have the ability to copy a platform by pressing the "r" button and holding it, then
+  set the starting position by moving the mouse to desired position and clicking the left
+  mouse button, but DO NOT click and hold the left mouse button
+ ,then move the mouse to scale the selecter:
+
+	@)after scaling to desired size press(WITHOUT letting go of the "r" button):
+		#)YOU CAN delete the platform by pressing the "c" button and BACKSPACE.
+		#)YOU CAN copy and paste the platform by pressing the "c" button,then let go.
+		  of the "r" button and click and press "v" where you want to pastr the platform.
+
+7)You can save the map you created by pressing the save button.
+
+
+EXTRA:
+___________________________________________
+<it only supports png image files(for now)
+
+
+
+  WHAT TO EXPECT FOR THE NEXT VERSION:
+_________________________________________
+	-the maps are going to be written in a json file
+	-it will be much easier to load the files
+	-it will support other image file
+	-you will be able to zoom the map in and out for better view
+	-you will be able to load a  different map and enter a different image directory while running the program.
+	
+  
